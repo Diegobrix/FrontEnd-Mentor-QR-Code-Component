@@ -40,7 +40,7 @@ figure img {
     height: 100%;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution {position: fixed;bottom: 1rem;width:100%;font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
 /* Mobile - 375px */
